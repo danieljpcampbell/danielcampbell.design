@@ -1,0 +1,27 @@
+HTTrack3.49-2 launched on Mon, 24 Feb 2025 14:11:47 at https://danielcampbell.webflow.io
+(httrack https://danielcampbell.webflow.io -O /Users/danielcampbell/Downloads/webflow-site )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+14:11:49	Error: 	"Bad Gateway" (502) after 2 retries at link https://danielcampbell.webflow.io/robots.txt (from primary/primary)
+14:11:54	Warning: 	Retry after error 502 (Bad Gateway) at link https://danielcampbell.webflow.io/about (from https://danielcampbell.webflow.io/)
+14:11:54	Warning: 	Retry after error 502 (Bad Gateway) at link https://danielcampbell.webflow.io/work/juniper-assessments (from https://danielcampbell.webflow.io/)
+14:11:54	Warning: 	Retry after error 502 (Bad Gateway) at link https://danielcampbell.webflow.io/work/good-places (from https://danielcampbell.webflow.io/)
+14:11:54	Warning: 	Retry after error 502 (Bad Gateway) at link https://danielcampbell.webflow.io/work/claddagh-tours (from https://danielcampbell.webflow.io/)
+14:11:55	Warning: 	Retry after error 502 (Bad Gateway) at link https://danielcampbell.webflow.io/work/data-goose (from https://danielcampbell.webflow.io/)
+14:11:55	Warning: 	Retry after error 502 (Bad Gateway) at link https://danielcampbell.webflow.io/about (from https://danielcampbell.webflow.io/)
+14:11:56	Warning: 	Retry after error 502 (Bad Gateway) at link https://danielcampbell.webflow.io/work/juniper-assessments (from https://danielcampbell.webflow.io/)
+14:11:56	Warning: 	Retry after error 502 (Bad Gateway) at link https://danielcampbell.webflow.io/work/good-places (from https://danielcampbell.webflow.io/)
+14:11:56	Warning: 	Retry after error 502 (Bad Gateway) at link https://danielcampbell.webflow.io/work/claddagh-tours (from https://danielcampbell.webflow.io/)
+14:11:56	Warning: 	Retry after error 502 (Bad Gateway) at link https://danielcampbell.webflow.io/work/data-goose (from https://danielcampbell.webflow.io/)
+14:11:57	Error: 	"Bad Gateway" (502) after 2 retries at link https://danielcampbell.webflow.io/about (from https://danielcampbell.webflow.io/)
+14:11:57	Error: 	"Bad Gateway" (502) after 2 retries at link https://danielcampbell.webflow.io/work/juniper-assessments (from https://danielcampbell.webflow.io/)
+14:11:57	Error: 	"Bad Gateway" (502) after 2 retries at link https://danielcampbell.webflow.io/work/good-places (from https://danielcampbell.webflow.io/)
+14:11:57	Error: 	"Bad Gateway" (502) after 2 retries at link https://danielcampbell.webflow.io/work/claddagh-tours (from https://danielcampbell.webflow.io/)
+14:11:57	Error: 	"Bad Gateway" (502) after 2 retries at link https://danielcampbell.webflow.io/work/data-goose (from https://danielcampbell.webflow.io/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 10 seconds : 17 links scanned, 1 files written (9866 bytes overall) [113372 bytes received at 11337 bytes/sec], 9866 bytes transferred using HTTP compression in 1 files, ratio 29%, 4.2 requests per connection
+(6 errors, 10 warnings, 0 messages)
